@@ -1,0 +1,23 @@
+.dropdowns {
+  margin: 5px;
+  width: 100%;
+}
+
+#cost-column {
+  display: none;
+}
+
+body {
+  background-color: black;
+
+}
+
+h1 {
+   color: white;
+}
+
+#cost-column {
+  color: white;
+}
+
+
